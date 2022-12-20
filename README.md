@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fayzidin
 - 👨‍💻 I'm data & big data engineer
-- 👀 I’m interested in scinence and travel
+- 👀 I’m interested in science and travel
 - 🌱 I’m currently learning new language
 - 📫 How to reach me ... linkedin.com/in/fayzidinsayliev
 
